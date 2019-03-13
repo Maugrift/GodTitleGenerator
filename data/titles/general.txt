@@ -1,0 +1,10 @@
+God
+Goddess
+King
+Queen
+Lord
+Lady
+Knight
+Champion
+Watcher
+Conqueror

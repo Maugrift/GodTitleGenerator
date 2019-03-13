@@ -1,0 +1,19 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+mainClassName = "com.maugrift.godtitles.Main"
+
+group 'com.maugrift'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'com.squidpony:squidlib-util:3.0.0-b9'
+}
